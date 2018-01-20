@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1663469306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 853d560e19913bdf774a9b1dd18391c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20d2a047ae4e99a3eaf853982df4d9aa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/NGUI/Examples/Atlases/Fantasy/Fantasy Atlas.mat
+Dependencies:
+- E:/U3DPeoject/HotUpdate/Assets/StreamingAssets/Android/shader/unlit/transparent_colored.shader.unity3d
+- E:/U3DPeoject/HotUpdate/Assets/StreamingAssets/Android/atlas/fantasy_atlas.psd.unity3d

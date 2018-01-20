@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 985414306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb09f7d2e7a91e47aec705fa6adc5cd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/NGUI/Examples/Atlases/Fantasy/Fantasy Atlas.psd
+Dependencies: []

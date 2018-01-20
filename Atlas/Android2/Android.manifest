@@ -1,0 +1,6 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlas/fantasy_atlas.prefab.unity3d
+      Dependencies: {}
